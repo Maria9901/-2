@@ -1,0 +1,32 @@
+
+
+body{
+ background-color: #D4E6B3;
+} 
+h1 {
+	position: relative;
+	top: 20px;
+	left: 5%;
+}
+img {
+	position: relative;
+	top: 20px;
+	left: 5%;
+}
+p {
+	position: relative;
+	top: 20px;
+	left: 5%;
+}
+input {
+
+	position: relative;
+	right: 0;
+	bottom: 100px;
+    width: 200px;
+	height: 50px;
+	background: #D4E6B3;
+	top: 20px;
+	left: 10%;
+	
+}
